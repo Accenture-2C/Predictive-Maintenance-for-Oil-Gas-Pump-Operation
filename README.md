@@ -1,12 +1,11 @@
 
-
 # **Predictive Maintenance for Oil & Gas Pump Operations**
 
-> *AI Studio Challenge Project — Accenture 2C*
+> 🔄 *AI Studio Challenge Project — Accenture 2C*
 
 ---
 
-## **Team Members**
+## 👥 **Team Members**
 
 | Name                | GitHub Handle                                    | Contribution                                                            |
 | ------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
@@ -19,7 +18,7 @@
 
 ---
 
-## **Project Highlights**
+## 🚀 **Project Highlights**
 
 * Developed a predictive maintenance model using **Logistic Regression** to classify pump failures before they occur.
 * Achieved **100% precision and 100% recall** after tuning—ensuring highly reliable predictions with zero false alarms.
@@ -29,7 +28,47 @@
 
 ---
 
-## **Project Overview**
+## 🛠️ **Setup and Installation**
+
+### **Clone the Repository**
+
+```bash
+git clone https://github.com/yourteamrepo/yourproject.git
+cd yourproject
+```
+
+### **Install Dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+### **Run Jupyter Notebooks**
+
+Use any notebook in the `notebooks/` directory for EDA, modeling, or evaluation.
+
+### **Run Model Training Script**
+
+```bash
+python src/train.py
+```
+
+### **Run Evaluation**
+
+```bash
+python src/evaluate.py
+```
+
+### **Dashboard**
+
+```bash
+cd dashboard
+python app.py
+```
+
+---
+
+## 📘 **Project Overview**
 
 This project was completed as part of the **Break Through Tech AI Studio Program**, in partnership with **Accenture**.
 
@@ -50,7 +89,7 @@ Build a robust ML system capable of **predicting pump failure before it occurs**
 
 ---
 
-## **AI Studio Project Details**
+## 🧪 **AI Studio Project Details**
 
 ### **Methodology**
 
@@ -72,7 +111,7 @@ We selected Logistic Regression because:
 
 ---
 
-## **Key Results**
+## 📈 **Key Results**
 
 * **84% reduction** in pump downtime
 * **408,985 minutes** of downtime avoided
@@ -82,7 +121,7 @@ We selected Logistic Regression because:
 
 ---
 
-## **Next Steps**
+## 🧭 **Next Steps**
 
 * Integrate live sensor streaming
 * Add multi-class failure prediction
