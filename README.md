@@ -9,11 +9,11 @@
 
 | Name                | GitHub Handle                                    | Contribution                                                            |
 | ------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
+| **Maruf Aurnap**    | [@marnan4](https://github.com/marnan4/marnan4)   | Modeling, dashboard creation, visualization for real-time monitoring    |
+| **Jocelyn Prieto**  | [@jprietoz](https://github.com/jprietoz)         | Modeling (baseline & advanced models), hyperparameter tuning            |
+| **Aarshia Hukmani** | [@aarshiah](https://github.com/aarshiah)         | Support in analysis, documentation, and model review                    |
 | **Faith Nchang**    | [@Faith-Nchang](https://github.com/Faith-Nchang) | Exploratory Data Analysis (EDA), data processing, feature understanding |
 | **Tobenna Ahanotu** | [@TBONEstuff](https://github.com/TBONEstuff)     | Feature engineering, feature selection, data refinement                 |
-| **Jocelyn Prieto**  | [@jprietoz](https://github.com/jprietoz)         | Modeling (baseline & advanced models), hyperparameter tuning            |
-| **Maruf Aurnap**    | [@marnan4](https://github.com/marnan4/marnan4)   | Modeling, dashboard creation, visualization for real-time monitoring    |
-| **Aarshia Hukmani** | [@aarshiah](https://github.com/aarshiah)         | Support in analysis, documentation, and model review                    |
 | **Entire Team**     | —                                                | Model evaluation, performance analysis, insights interpretation         |
 
 ---
