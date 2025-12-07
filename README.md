@@ -101,13 +101,4 @@ You can contact or follow the team here:
 * Aarshia: [https://github.com/aarshiah](https://github.com/aarshiah)
 * Maruf: *(Handle can be added when available)*
 
----
 
-If you'd like, I can also make:
-
-🔥 A more aesthetic GitHub-styled README
-📦 A version with repository tree + badges
-💼 A recruiter-optimized version
-🎨 A version with emojis & styling
-
-Just tell me!
