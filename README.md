@@ -29,46 +29,6 @@
 
 ---
 
-## **Setup and Installation**
-
-### **Clone the Repository**
-
-```bash
-git clone https://github.com/yourteamrepo/yourproject.git
-cd yourproject
-```
-
-### **Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **Run Jupyter Notebooks**
-
-Use any notebook in the `notebooks/` directory for EDA, modeling, or evaluation.
-
-### **Run Model Training Script**
-
-```bash
-python src/train.py
-```
-
-### **Run Evaluation**
-
-```bash
-python src/evaluate.py
-```
-
-### **Dashboard**
-
-```bash
-cd dashboard
-python app.py
-```
-
----
-
 ## **Project Overview**
 
 This project was completed as part of the **Break Through Tech AI Studio Program**, in partnership with **Accenture**.
