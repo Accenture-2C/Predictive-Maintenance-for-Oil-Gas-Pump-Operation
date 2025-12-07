@@ -12,7 +12,7 @@
 | **Faith Nchang**    | [@Faith-Nchang](https://github.com/Faith-Nchang) | Exploratory Data Analysis (EDA), data processing, feature understanding |
 | **Tobenna Ahanotu** | [@TBONEstuff](https://github.com/TBONEstuff)     | Feature engineering, feature selection, data refinement                 |
 | **Jocelyn Prieto**  | [@jprietoz](https://github.com/jprietoz)         | Modeling (baseline & advanced models), hyperparameter tuning            |
-| **Maruf Aurnap**    | *(GitHub not listed / add later)*                | Modeling, dashboard creation, visualization for real-time monitoring    |
+| **Maruf Aurnap**    | [@marnan4](https://github.com/marnan4/marnan4)   | Modeling, dashboard creation, visualization for real-time monitoring    |
 | **Aarshia Hukmani** | [@aarshiah](https://github.com/aarshiah)         | Support in analysis, documentation, and model review                    |
 | **Entire Team**     | —                                                | Model evaluation, performance analysis, insights interpretation         |
 
@@ -138,6 +138,6 @@ You can contact or follow the team here:
 * Jocelyn: [https://github.com/jprietoz](https://github.com/jprietoz)
 * Tobenna: [https://github.com/TBONEstuff](https://github.com/TBONEstuff)
 * Aarshia: [https://github.com/aarshiah](https://github.com/aarshiah)
-* Maruf: *(Handle can be added when available)*
+* Maruf: [https://github.com/marnan4/marnan4](https://github.com/marnan4/marnan4)
 
 
