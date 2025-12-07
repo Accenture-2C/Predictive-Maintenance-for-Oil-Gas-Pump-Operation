@@ -2,7 +2,7 @@
 
 ### *Accenture 2C — Break Through Tech AI Studio Final Project*
 
-## ⭐ **Overview**
+##  **Overview**
 
 Unplanned pump failures are a major source of downtime and financial loss in oil & gas operations. Traditional reactive maintenance leads to unnecessary repairs, safety risks, and operational inefficiency.
 
@@ -10,7 +10,7 @@ Our team built a **machine learning–powered predictive maintenance system** ca
 
 ---
 
-## 👥 **Team**
+## **Team**
 
 Break Through Tech AI Fellows:
 
@@ -28,7 +28,7 @@ Accenture Challenge Coaches:
 
 ---
 
-## 🎯 **Project Goals**
+## **Project Goals**
 
 * Build a model that accurately predicts when a pump is likely to fail.
 * Reduce unplanned downtime by enabling early detection.
@@ -37,7 +37,7 @@ Accenture Challenge Coaches:
 
 ---
 
-## 📊 **Dataset & Target Variable**
+## **Dataset & Target Variable**
 
 The dataset includes mechanical and operational signals from multiple pumps:
 
@@ -62,7 +62,7 @@ The dataset includes mechanical and operational signals from multiple pumps:
 
 ---
 
-## 🧠 **Modeling Approach**
+## **Modeling Approach**
 
 We experimented with three model classes:
 
@@ -91,7 +91,7 @@ We experimented with three model classes:
 
 ---
 
-## 📈 **Business Impact**
+## **Business Impact**
 
 Using model predictions to prevent downtime produced major savings:
 
@@ -107,7 +107,7 @@ This system reduced downtime by **more than 80%**, highlighting the effectivenes
 
 ---
 
-## 🛠️ **Recommended Repository Structure**
+## **Recommended Repository Structure**
 
 ```
 ├── data/
@@ -133,7 +133,7 @@ This system reduced downtime by **more than 80%**, highlighting the effectivenes
 
 ---
 
-## 🚀 **Usage**
+## **Usage**
 
 ### **1. Install requirements**
 
